@@ -54,6 +54,9 @@
     top: 350px;
     left: 1120px;
 }
+.music {
+    position: absolute;
+}
 body {
     padding: 0;
     margin: 0;
